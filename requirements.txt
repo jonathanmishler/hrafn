@@ -13,3 +13,6 @@ pydantic[dotenv]
 yfinance
 fredapi
 bokeh
+binance-connector
+holoviews[recommended]
+seaborn
